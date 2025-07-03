@@ -1,10 +1,10 @@
-# 🧠 Machine Learning Projects (with a focus on Bioinformatics)
+## 🧠 Machine Learning Projects (with a focus on Bioinformatics)
 
 Welcome to my machine learning repository! This space showcases my journey through machine learning and deep learning, with a strong emphasis on applications in biology and bioinformatics.
 
 ---
 
-## 📁 Repository Structure
+### 📁 Repository Structure
 
 This repository will contain a collection of hands-on ML projects, including but not limited to:
 
@@ -22,7 +22,7 @@ Each project will be documented in its own folder and include:
 
 ---
 
-## 🛠 Tools & Libraries
+### 🛠 Tools & Libraries
 
 I primarily use:
 
@@ -35,22 +35,23 @@ I primarily use:
 
 ---
 
-## 📌 Current Projects
+### 📌 Current Projects
 
 | Project | Description | Status |
 |--------|-------------|--------|
 | Autoencoder on Gene Expression | Dimensionality reduction + clustering using Keras | ✅ Completed |
+| Supervised Learning on Diabetes patient data | Diabetes prediction using SVMs | ✅ Completed |
 | ... | ... | ⏳ In Progress |
 
 ---
 
-## 🚀 Motivation
+### 🚀 Motivation
 
 As a life sciences graduate with a growing interest in computational biology and AI, this repository is part of my ongoing effort to bridge machine learning and biological research. I plan to build a strong portfolio that supports my research  endeavours and collaborations in computational biology.
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 
 Feel free to reach out if you're working on similar projects or would like to collaborate.
 
